@@ -17,7 +17,7 @@ PRs very welcome!
 
 See git clone https://github.com/ggerganov/whisper.cpp.git for more detail.
 
-...
+```
 git clone https://github.com/ggerganov/whisper.cpp.git
 cd whisper.cpp
 bash ./models/download-ggml-model.sh ggml-large-v2.bin # Has less repeating line issues than v3
